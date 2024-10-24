@@ -9,6 +9,8 @@ Based on the work of Zachary A. Pardos (zp@berkeley.edu) and Matthew J. Johnson 
 
 Badrinath, A., Wang, F., Pardos, Z.A. (2021) [pyBKT: An Accessible Python Library of Bayesian Knowledge Tracing Models](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_237.pdf). In S. Hsiao, & S. Sahebi  (Eds.) *Proceedings of the 14th International Conference on Educational Data Mining* (EDM). Pages 468-474.
 
+Bulut, O., Shin, J., Yildirim-Erbasli, S. N., Gorgun, G., & Pardos, Z. A. (2023). [An introduction to Bayesian knowledge tracing with pyBKT](https://www.mdpi.com/2624-8611/5/3/50). *Psych*, 5(3), 770-786.
+
 Examples from the paper can be found in [pyBKT-examples](https://github.com/CAHLR/pyBKT-examples/ "pyBKT examples") repo.
 
 [pyBKT Quick Start Tutorial](https://colab.research.google.com/drive/13abu919edUXbvPV3qeGPpvwnFBExU7Vd "pyBKT quick start in Colab")
